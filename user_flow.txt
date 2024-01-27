@@ -1,0 +1,8 @@
+User Flow:
+-User ingin melakukan Login:
+1. Buka aplikasi 
+2. Pilih menu my profile 
+3. Navigate to the "Delays" section for detailed information
+4. Add preferred routes to "Favorites"
+5. Access application settings for customization
+ 

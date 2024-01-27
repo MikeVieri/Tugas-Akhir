@@ -1,0 +1,49 @@
+Empathy Map:
+User Persona:
+- Name: Adela Corissa 
+- Age: 23
+- Occupation: QA Engineer and College Student
+
+User Says:
+- "Saya Stress dalam pembagian waktu"
+- "Bingung dengan status TA"
+- "Saya lebih sibuk dengan pekerjaan dibanding perkuliahan"
+
+User Thinks:
+- "Saya harus Mencari Dosen pembiming baru"
+- "Mencari cara untuk menyelesaikan TA"
+- "Sulit untuk menyeimbangkan kesibukan kerja dan kuliah"
+
+User Does:
+- Mencoba membagi waktu dengan lebih baik 
+- Tetap bersyukur dalam mengahadapi segala hal 
+
+User Feels:
+- Overthinking karena permasalahan TA
+- Menjadi beban untuk orang tua 
+- Bersyukur ada pekerjaan tetap
+
+
+User Persona:
+- Name: Christoper Daeng Kilantan
+- Age: 19
+- Occupation: College Student
+
+User Says:
+- "Saya susah dalam membagi waktu"
+- "Ada beberapa mata kuliah yang membingungkan"
+- "Lagi sibuk dengan organisasi dan kuliah"
+
+User Thinks:
+- "Takut Nilai kurang memuaskan"
+- "Harus bisa membagi waktu antara organisasi dan kuliah"
+
+User Does:
+- Mencoba untuk belajar, walaupun susah  
+- Tetap menjalankan keseharian dengan baik 
+- Mencoba untuk lebih disiplin waktu 
+
+User Feels:
+- Sibuk dengan kuliah dan organisasi 
+- Lebih nyaman dalam berorganisasi
+- Lelah dengan segala kesibukan

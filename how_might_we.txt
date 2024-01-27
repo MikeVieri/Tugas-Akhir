@@ -1,0 +1,5 @@
+How might we:
+Bagaimana kita bisa memfasilitasi mahasiswa dalam mengerjakan tugas yang kurang dipahami untuk mengurangi stress
+Bagaimana kita bisa membantu memahasiswa mengatur waktu untuk menjalankan kesibukan mereka dengan baik
+Bagaimana kita bisa membangun fitur untuk mengingatkan mahasiswa terhadap tugas mereka untuk mengurangi overthinking terhadap tugas yang menumpuk  
+Bagaimana kita bisa memotivasi mahasiswa dalam menjalani perkuliahan untuk menjadikan kesehatan mental yang baik 
