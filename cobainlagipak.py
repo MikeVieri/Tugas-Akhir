@@ -54,7 +54,7 @@ def generate_srs_document(parsed_data, output_path):
     document.add_heading('3.1 User Characteristics', level=2)
     # document.add_paragraph(parsed_data.get('UserCharacteristic', ''))
 
-    # Add Functional Requirement section
+    #Add Functional Requirement section
     document.add_heading('3.2 Functional Requirements', level=2)
     document.add_paragraph(parsed_data.get('FunctionalRequirement', ''))
 
